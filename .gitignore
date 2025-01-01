@@ -1,0 +1,7 @@
+.venv
+.env
+env
+env/pyvenv.cfg
+article.pdf
+article.md
+__pycache__
